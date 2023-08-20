@@ -25,7 +25,6 @@ import DocumentationIcon from './components/icons/IconDocumentation.vue'
         </WelcomeItem>
     </main>
 </template>
-
 <style scoped>
 div {
     text-align: center;
@@ -34,6 +33,7 @@ div {
 }
 
 h2 {
+    text-align: center;
     margin-top: 2%;
     margin-bottom: 5%;
 }
